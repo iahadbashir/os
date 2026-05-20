@@ -1,0 +1,4 @@
+# file: /Users/ahadqazi/Downloads/local-ai-for-shell-scripting-and-os-main/src/resource_store.py
+# hypothesis_version: 6.152.9
+
+['# ', '.md', '[a-z0-9_]+', 'docs', 'documentation', 'example', 'examples', 'index.json', 'stdlib', 'utf-8']
